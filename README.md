@@ -22,6 +22,5 @@ You can view it live here:
 ##  Explore the Code
 Check my GitHub repo for full source code and file structure.
 
-##  Contact Me
-- Fiverr: [Your Fiverr Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link] 
+##  Contact Me  
+- whatsapp: [03049935889] 
